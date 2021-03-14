@@ -1,4 +1,5 @@
-# gcp-terraform
+
+# GCP-TERRAFORM
 
 folder dedicated to GCP resources deployment with Terraform
 
@@ -17,4 +18,4 @@ There are some folders to organize resources.
 
 # License
 
-# Last update: 2020.08.22
+# Last update: 2021.03.14
