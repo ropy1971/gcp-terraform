@@ -1,21 +1,18 @@
 
-# GCP-TERRAFORM
+# README.md
 
-folder dedicated to GCP resources deployment with Terraform
+## introduction
 
-This repository is containing all resources dedicated to Alibaba Cloud/Aliyun based on Terraform technology. 
+## status
 
-# Folders organization
+[PUBLIC]
 
-There are some folders to organize resources.
+## folders organization
 
-- architecture.
-- data.
-- pictures.
-- resources.
+## comments
 
-# Comments 
+## license
 
-# License
+Check the license file.
 
-# Last update: 2021.03.14
+## last update: 2021.06.22
